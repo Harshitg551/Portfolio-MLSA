@@ -40,7 +40,7 @@ const projectList = [
     title: "Medium Clone",
     description:
       "Medium UI clone using NextJS + Tailwind CSS.",
-    url: "https://github.com/Harshitg551/medium1",
+    url: "https://github.com/rishig551/medium1",
   },
   {
     title: "Image stenography",
@@ -49,7 +49,7 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "Peersional protfolio",
+    title: "Persional protfolio",
     description:
       "made in 3d with 3js and other technologies",
     url: "https://github.com/Harshitg551/my-portfolio1",

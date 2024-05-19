@@ -114,7 +114,7 @@ const Footer = (props) => {
         )}
       </div>
       <p className="small" style={{ marginTop: 0, color: "white" }}>
-        Created by Harshit Gupta
+        Created by Rishi Raj Gupta
       </p>
     </div>
   );

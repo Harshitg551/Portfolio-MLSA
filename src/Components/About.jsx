@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Driven C.E. student currently pursuing an MBA in Technology at NMIMS with a keen focus on specializing in finance. Enthusiastic about leveraging a robust tech background to drive strategic financial initiatives. Passionate learner committed to bridging the gap between technology and finance for innovative solutions.";
+  "Driven Commerce student currently pursuing an MBA in Technology at VIKRAMADITYA GROUP OF INSTITUTIONS with a keen focus on specializing in finance. Enthusiastic about leveraging a robust tech background to drive strategic financial initiatives. Passionate learner committed to bridging the gap between technology and finance for innovative solutions.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
