@@ -26,9 +26,9 @@ import "./styles.css";
 const siteProps = {
   name: "Rishi Raj Gupta",
   title: "Web Designer & Content Creator",
-  email: "Harshit.Gupta@studentambassadors.com",
-  gitHub: "harshitg551",
-  instagram: "creativee_harshit",
+  email: "",
+  gitHub: "rishig551",
+  instagram: "r_i_s_h_i_____",
   linkedIn: "Rishi Raj Gupta",
   medium: "",
   twitter: "Rishi Raj Gupta",
